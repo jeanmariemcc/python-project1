@@ -1,4 +1,4 @@
-# python-project1
+# My First Personal Python Project
 Personal Python project 
 by JeanMarie McCormack
 
